@@ -1,0 +1,6 @@
+15.06.2020_06:12 ---- nalezen bod historie 
+15.06.2020_06:12 ---- historicka data nactena 
+25.06.2020_11:12 ---- nepovedlo se zapsat data do souboru -teplotyLakovna.csv- 
+02.07.2020_06:34 ---- nepovedlo se zapsat data do souboru -teplotyLakovna.csv- 
+02.07.2020_06:38 ---- nepovedlo se zapsat data do souboru -teplotyLakovna.csv- 
+10.07.2020_09:08 ---- nepovedlo se zapsat data do souboru -teplotyLakovna.csv- 
